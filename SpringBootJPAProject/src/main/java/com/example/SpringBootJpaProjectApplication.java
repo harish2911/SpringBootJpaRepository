@@ -8,7 +8,7 @@ public class SpringBootJpaProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootJpaProjectApplication.class, args);
-		System.out.println("Welcome to the BootJPA");
+		System.out.println("Welcome to the - BootJPA");
 	}
 
 }
